@@ -1,0 +1,1067 @@
+[
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/iminac/2017-11-13/",
+        "data": "Ut dolor consequat do cupidatat commodo laboris nisi aliquip deserunt nisi elit.",
+        "title": "Iveta Mináč: 2017 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "iminac@techzample.com",
+        "fullname": "Iveta Mináč",
+        "manager": "Crina Tăriceanu",
+        "worktitle": "UX Designer",
+        "workdepartment": "R&D",
+        "workteam": "Product",
+        "office": "Bucharest",
+        "date": "2017-11-13",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "iminac@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "ctariceanu@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/iminac/2018-11-19/",
+        "data": "In occaecat excepteur culpa sit mollit veniam proident officia.",
+        "title": "Iveta Mináč: 2018 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "iminac@techzample.com",
+        "fullname": "Iveta Mináč",
+        "manager": "Xiao Lin You Mei",
+        "worktitle": "UX Designer",
+        "workdepartment": "R&D",
+        "workteam": "Product",
+        "office": "Prague",
+        "date": "2018-11-19",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "iminac@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "xyoumei@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/iminac/2019-11-11/",
+        "data": "Velit aute aliquip ullamco mollit ex veniam officia tempor voluptate enim.",
+        "title": "Iveta Mináč: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "iminac@techzample.com",
+        "fullname": "Iveta Mináč",
+        "manager": "Xiao Lin You Mei",
+        "worktitle": "UX Designer",
+        "workdepartment": "R&D",
+        "workteam": "Product",
+        "office": "Prague",
+        "date": "2018-11-19",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "iminac@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "xyoumei@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/jmartin/2017-11-13/",
+        "data": "Sunt sit labore non irure cupidatat qui qui voluptate aliqua.",
+        "title": "Jesse Martin: 2017 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "jmartin@techzample.com",
+        "fullname": "Jesse Martin",
+        "manager": "Crina Tăriceanu",
+        "worktitle": "Data Analyst",
+        "workdepartment": "R&D",
+        "workteam": "Product",
+        "office": "New York",
+        "date": "2017-11-13",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "jmartin@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "ctariceanu@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/jmartin/2018-11-19/",
+        "data": "Deserunt qui sint minim velit ad adipisicing laboris est.",
+        "title": "Jesse Martin: 2018 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "jmartin@techzample.com",
+        "fullname": "Jesse Martin",
+        "manager": "Crina Tăriceanu",
+        "worktitle": "Data Analyst",
+        "workdepartment": "R&D",
+        "workteam": "Product",
+        "office": "New York",
+        "date": "2017-11-13",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "jmartin@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "ctariceanu@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/jmartin/2018-11-19/",
+        "data": "Ut labore culpa labore cupidatat velit qui voluptate tempor non duis sint cupidatat quis.",
+        "title": "Jesse Martin: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "jmartin@techzample.com",
+        "fullname": "Jesse Martin",
+        "manager": "Crina Tăriceanu",
+        "worktitle": "Data Analyst",
+        "workdepartment": "R&D",
+        "workteam": "Product",
+        "office": "New York",
+        "date": "2017-11-13",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "jmartin@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "ctariceanu@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/ctariceanu/2019-11-11/",
+        "data": "Sit magna sunt duis ex pariatur non quis.",
+        "title": "Crina Tăriceanu: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "ctariceanu@techzample.com",
+        "fullname": "Crina Tăriceanu",
+        "manager": "Marvin TheDoor",
+        "worktitle": "Product VP",
+        "workdepartment": "R&D",
+        "workteam": "Product",
+        "office": "Bucharest",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "ctariceanu@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "lsimonwater@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "gbelson@techzample.com",
+                "identityType": "User"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/xyoumei/2019-11-11/",
+        "data": "Veniam ea incididunt eu ipsum in adipisicing elit incididunt incididunt cillum.",
+        "title": "Xiao-Lin You-Mei: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "xyoumei@techzample.com",
+        "fullname": "Xiao-Lin You-Mei",
+        "manager": "Marvin TheDoor",
+        "worktitle": "Product VP",
+        "workdepartment": "R&D",
+        "workteam": "Product",
+        "office": "Tokyo",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "xyoumei@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "lsimonwater@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "gbelson@techzample.com",
+                "identityType": "User"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/cschmitz/2017-11-13/",
+        "data": "Qui ea tempor incididunt sunt consequat est.",
+        "title": "Celina Schmitz: 2017 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "cschmitz@techzample.com",
+        "fullname": "Celina Schmitz",
+        "manager": "Mohit Subba",
+        "worktitle": "Account Manager",
+        "workdepartment": "Sales",
+        "workteam": "Global Sales",
+        "office": "Munich",
+        "date": "2017-11-13",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "cschmitz@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "msubba@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/cschmitz/2018-11-19/",
+        "data": "In laboris est veniam consequat cupidatat et.",
+        "title": "Celina Schmitz: 2018 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "cschmitz@techzample.com",
+        "fullname": "Celina Schmitz",
+        "manager": "Mohit Subba",
+        "worktitle": "Account Manager",
+        "workdepartment": "Sales",
+        "workteam": "Global Sales",
+        "office": "Munich",
+        "date": "2018-11-19",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "cschmitz@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "msubba@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/cschmitz/2019-11-11/",
+        "data": "Elit culpa consectetur laborum officia eiusmod id cillum aute aliquip sit ad pariatur.",
+        "title": "Celina Schmitz: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "cschmitz@techzample.com",
+        "fullname": "Celina Schmitz",
+        "manager": "Mohit Subba",
+        "worktitle": "Account Manager",
+        "workdepartment": "Sales",
+        "workteam": "Global Sales",
+        "office": "Munich",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "cschmitz@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "msubba@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/rfaure/2018-11-19/",
+        "data": "Eu cupidatat sit irure labore ut tempor ipsum ut.",
+        "title": "Roméo Faure: 2018 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "rfaure@techzample.com",
+        "fullname": "Roméo Faure",
+        "manager": "Mohit Subba",
+        "worktitle": "Account Manager",
+        "workdepartment": "Sales",
+        "workteam": "Global Sales",
+        "office": "Paris",
+        "date": "2018-11-19",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "rfaure@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "msubba@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/rfaure/2019-11-11/",
+        "data": "Laborum sint veniam nostrud occaecat enim id velit ullamco anim enim.",
+        "title": "Roméo Faure: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "rfaure@techzample.com",
+        "fullname": "Roméo Faure",
+        "manager": "Mohit Subba",
+        "worktitle": "Account Manager",
+        "workdepartment": "Sales",
+        "workteam": "Global Sales",
+        "office": "Paris",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "rfaure@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "msubba@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/vgrigorev/2019-11-11/",
+        "data": "Magna ad Lorem anim sint pariatur.",
+        "title": "Vasiliy Grigorev: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "vgrigorev@techzample.com",
+        "fullname": "Vasiliy Grigorev",
+        "manager": "Mohit Subba",
+        "worktitle": "Sales Specialist",
+        "workdepartment": "Sales",
+        "workteam": "Global Sales",
+        "office": "Moscow",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "vgrigorev@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "msubba@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/msubba/2019-11-11/",
+        "data": "Ut sint cillum voluptate id aute.",
+        "title": "Mohit Subba: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "msubba@techzample.com",
+        "fullname": "Mohit Subba",
+        "manager": "Lawrence Simonwater",
+        "worktitle": "Global Sales VP",
+        "workdepartment": "Sales",
+        "workteam": "Global Sales",
+        "office": "New Delhi",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "msubba@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "mthedoor@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "gbelson@techzample.com",
+                "identityType": "User"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/dcaranfil/2019-11-11/",
+        "data": "Consequat excepteur minim non pariatur sint.",
+        "title": "Dana Caranfil: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "dcaranfil@techzample.com",
+        "fullname": "Dana Caranfil",
+        "manager": "Gabriel Dias",
+        "worktitle": "Marketing analyst",
+        "workdepartment": "Marketing",
+        "workteam": "Product Marketing",
+        "office": "Bucharest",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "dcaranfil@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "gdias@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/vstroici/2019-11-11/",
+        "data": "Consequat eu aliquip commodo laborum aliquip tempor officia.",
+        "title": "Vera Stroici: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "vstroici@techzample.com",
+        "fullname": "Vera Stroici",
+        "manager": "Gabriel Dias",
+        "worktitle": "Marketing analyst",
+        "workdepartment": "Marketing",
+        "workteam": "Product Marketing",
+        "office": "Bucharest",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "vstroici@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "gdias@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/cchindris/2019-11-11/",
+        "data": "Culpa proident cillum dolor esse culpa et irure nulla adipisicing elit magna et dolor.",
+        "title": "Constantina Chindriș: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "cchindris@techzample.com",
+        "fullname": "Constantina Chindriș",
+        "manager": "Gabriel Dias",
+        "worktitle": "Marketing analyst",
+        "workdepartment": "Marketing",
+        "workteam": "Product Marketing",
+        "office": "Bucharest",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "cchindris@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "gdias@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "HREmployees",
+                "identityType": "Group"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "TalentAcquisitionTeam",
+                "identityType": "Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/gdias/2019-11-11/",
+        "data": "Sint eu nostrud mollit id duis irure.",
+        "title": "Gabriel Dias: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "gdias@techzample.com",
+        "fullname": "Gabriel Dias",
+        "manager": "Lawrence Simonwater",
+        "worktitle": "Product Marketing VP",
+        "workdepartment": "Marketing",
+        "workteam": "Product Marketing",
+        "office": "Sao Paulo",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "gdias@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": [
+              {
+                "identity": "mthedoor@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "gbelson@techzample.com",
+                "identityType": "User"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/bjones/2019-11-11/",
+        "data": "Occaecat in proident mollit reprehenderit laborum.",
+        "title": "Bob Jones: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "bjones@techzample.com",
+        "fullname": "Bob Jones",
+        "manager": "Alice Smith",
+        "worktitle": "HR Business Partner",
+        "workdepartment": "HR",
+        "workteam": "Business Partnership",
+        "office": "Montreal",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "bjones@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "asmith@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": []
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/cbrown/2019-11-11/",
+        "data": "Ea minim deserunt sint velit amet duis.",
+        "title": "Charles Brown: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "cbrown@techzample.com",
+        "fullname": "Charles Brown",
+        "manager": "Alice Smith",
+        "worktitle": "HR Business Partner",
+        "workdepartment": "HR",
+        "workteam": "Business Partnership",
+        "office": "Montreal",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "cbrown@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "asmith@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": []
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/dmoore/2019-11-11/",
+        "data": "Sunt sint laborum ad ut minim quis est.",
+        "title": "David Moore: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "dmoore@techzample.com",
+        "fullname": "David Moore",
+        "manager": "Alice Smith",
+        "worktitle": "HR Business Partner",
+        "workdepartment": "HR",
+        "workteam": "Business Partnership",
+        "office": "Montreal",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "dmoore@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "asmith@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": []
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/asmith/2019-11-11/",
+        "data": "Magna aliqua nisi fugiat excepteur laboris officia reprehenderit dolor.",
+        "title": "Alice Smith: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "asmith@techzample.com",
+        "fullname": "Alice Smith",
+        "manager": "John TheForce",
+        "worktitle": "HR Business Partner VP",
+        "workdepartment": "HR",
+        "workteam": "Business Partnership",
+        "office": "Montreal",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "asmith@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "jtheforce@techzample.com",
+                "identityType": "User"
+              }
+            ],
+            "deniedPermissions": []
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/fwallace/2019-11-11/",
+        "data": "Eiusmod sunt laboris commodo dolore id laboris magna proident excepteur nulla et sint.",
+        "title": "Francis Wallace: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "fwallace@techzample.com",
+        "fullname": "Francis Wallace",
+        "manager": "Erin Mitchell",
+        "worktitle": "HR Talent Acquisition Specialist",
+        "workdepartment": "HR",
+        "workteam": "Talent Acquisition",
+        "office": "Montreal",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "fwallace@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "emitchell@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": []
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/grichardson/2019-11-11/",
+        "data": "Sunt aliquip est id ipsum elit amet est nulla nisi.",
+        "title": "Gerald Richardson: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "grichardson@techzample.com",
+        "fullname": "Gerald Richardson",
+        "manager": "Erin Mitchell",
+        "worktitle": "HR Talent Acquisition Specialist",
+        "workdepartment": "HR",
+        "workteam": "Talent Acquisition",
+        "office": "New York",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "grichardson@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "emitchell@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": []
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/honeil/2019-11-11/",
+        "data": "Esse mollit nulla minim reprehenderit qui ea et officia reprehenderit.",
+        "title": "Helen O'Neil: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "honeil@techzample.com",
+        "fullname": "Helen O'Neil",
+        "manager": "Erin Mitchell",
+        "worktitle": "HR Talent Acquisition Specialist",
+        "workdepartment": "HR",
+        "workteam": "Talent Acquisition",
+        "office": "San Francisco",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "honeil@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "emitchell@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "SeniorExecutives",
+                "identityType": "Group"
+              }
+            ],
+            "deniedPermissions": []
+          }
+        ]
+      },
+      {
+        "documentId": "https://techzample.com/hr/performancereviews/emitchell/2019-11-11/",
+        "data": "Enim ut est consectetur ex reprehenderit dolor.",
+        "title": "Erin Mitchell: 2019 Performance Review",
+        "contenttype": "performance_review",
+        "workemail": "emitchell@techzample.com",
+        "fullname": "Erin Mitchell",
+        "manager": "John TheForce",
+        "worktitle": "HR Talent Acquisition VP",
+        "workdepartment": "HR",
+        "workteam": "Talent Acquisition",
+        "office": "Montreal",
+        "date": "2019-11-11",
+        "permissions": [
+          {
+            "allowAnonymous": false,
+            "allowedPermissions": [
+              {
+                "identity": "emitchell@techzample.com",
+                "identityType": "User"
+              },
+              {
+                "identity": "jtheforce@techzample.com",
+                "identityType": "User"
+              }
+            ],
+            "deniedPermissions": []
+          }
+        ]
+      }
+    ]

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script class="coveo-script"
+        src="https://static.cloud.coveo.com/searchui/v2.10094/js/CoveoJsSearch.Lazy.min.js"></script>
+    <link rel="stylesheet" href="https://static.cloud.coveo.com/searchui/v2.10094/css/CoveoFullSearch.css" />
+    <script src="https://static.cloud.coveo.com/searchui/v2.10094/js/templates/templates.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            Coveo.SearchEndpoint.configureCloudV2Endpoint(
+                "your-org-id",
+                "your-api-key"
+            );
+            Coveo.init(document.getElementById("search"));
+
+        })
+    </script>
+</head>
+
+<body>
+    <div id="search" class="CoveoSearchInterface">
+        <!-- ... -->
+        <div class="CoveoAnalytics" data-search-hub="Movie Search English"></div>
+        <div class="coveo-search-section">
+            <div class="CoveoSearchbox"></div>
+        </div>
+        <div class="coveo-main-section">
+            <div class="CoveoResultList"></div>
+        </div>
+        <!-- ... -->
+    </div>
+</body>
+
+</html>

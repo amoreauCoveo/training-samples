@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>My Home Page</title>
+    <meta name="description" content="Home Page">
+    <style>
+        body {
+            margin: 0;
+        }
+
+        header {
+            background-color: #050a47;
+            color: white;
+            height: 100px;
+        }
+
+        .main-content {
+            margin: 20px;
+        }
+
+        .company-name {
+            font-size: 40px;
+        }
+        #language-picker {
+            float: right;
+            margin: 5px;
+        }
+    </style>
+    <script src="https://static.cloud.coveo.com/searchui/v2.10094/js/CoveoJsSearch.Lazy.min.js"></script>
+    <link rel="stylesheet" href="https://static.cloud.coveo.com/searchui/v2.10094/css/CoveoFullSearch.min.css" />
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const searchbox = document.querySelector("#coveo-searchbox");
+            Coveo.SearchEndpoint.configureCloudV2Endpoint(
+                "your-org-id",
+                "your-api-key");
+            Coveo.initSearchbox(
+                searchbox,
+                "./search.html"
+            );
+        })
+
+        function changeLanguage() {
+            console.log("Changing")
+            if (document.querySelector("#language").value == "fr") {
+                console.log("Redirect");
+                document.location.href = "../fr/index.html";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <header>
+        <span class="company-name">My Site</span>
+        <form id="language-picker">
+            <select name="language" id="language" onchange="changeLanguage()">
+                <option value="en">English</option>
+                <option value="fr">French</option>
+            </select>
+        </form>
+        <div id="coveo-searchbox">
+            <div class="CoveoAnalytics" data-search-hub="My Search Hub"></div>
+            <div class="CoveoSearchbox"></div>
+        </div>
+    </header>
+    <div class="main-content">
+        <h1>Welcome to my site</h1>
+        <p>This is a template homepage used by the Coveo training program.</p>
+        <p>There are other potential pages you might want to visit.</p>
+        <p>But, as this is a template, you might need to create them ahead of time.</p>
+        <p>For free training on Coveo, go to the <a href="https://levelup.coveo.com/">Coveo Level Up Platform</a>.</p>
+    </div>
+    <footer>
+        <span class="career"><a href="https://www.coveo.com/en/company/careers">Careers</a></span>
+        <span clas="coveo-homepage"><a href="https://www.coveo.com">Coveo</a></span>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+{
+    "Adventure": "Aventure",
+    "Biography": "Biographie",
+    "Comedy": "Comédie",
+    "Drama": "Drame",
+    "Family": "Familial",
+    "Fantasy": "Fantastique",
+    "Film-Noir": "Film Noir",
+    "History": "Histoire",
+    "Horror": "Horreur",
+    "Music": "Musique",
+    "Mystery": "Mystère",
+    "Sci-Fi": "Science Fiction",
+    "War": "Guerre"
+}

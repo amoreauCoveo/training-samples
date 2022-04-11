@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Ma Page d'Accueil</title>
+    <meta name="description" content="Page d'Accueil">
+    <style>
+        body {
+            margin: 0;
+        }
+
+        header {
+            background-color: #050a47;
+            color: white;
+            height: 100px;
+        }
+
+        .main-content {
+            margin: 20px;
+        }
+
+        .company-name {
+            font-size: 40px;
+        }
+        #language-picker {
+            float: right;
+            margin: 5px;
+        }
+    </style>
+    <script src="https://static.cloud.coveo.com/searchui/v2.10094/js/CoveoJsSearch.Lazy.min.js"></script>
+    <link rel="stylesheet" href="https://static.cloud.coveo.com/searchui/v2.10094/css/CoveoFullSearch.min.css" />
+    <script src="https://static.cloud.coveo.com/searchui/v2.10094/js/cultures/fr.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const searchbox = document.querySelector("#coveo-searchbox");
+            Coveo.SearchEndpoint.configureCloudV2Endpoint(
+                "your-org-id",
+                "your-api-key");
+            Coveo.initSearchbox(
+                searchbox,
+                "./search.html"
+            );
+        })
+
+        function changeLanguage() {
+            console.log("Changing")
+            if (document.querySelector("#language").value == "en") {
+                console.log("Redirect");
+                document.location.href = "../en/index.html";
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <header>
+        <span class="company-name">Mon Site</span>
+        <form id="language-picker">
+            <select name="language" id="language" onchange="changeLanguage()">
+                <option value="fr">French</option>
+                <option value="en">English</option>
+            </select>
+        </form>
+        <div id="coveo-searchbox">
+            <div class="CoveoAnalytics" data-search-hub="My Search Hub"></div>
+            <div class="CoveoSearchbox"></div>
+        </div>
+    </header>
+    <div class="main-content">
+        <h1>Bienvenue sur mon site!</h1>
+        <p>Ceci est un gabarit de page d'accueil utilisé par le programme d'enseignement de Coveo.</p>
+        <p>Il y a d'autres pages potentielles que vous pouvez visiter.</p>
+        <p>Mais, étant donné que vous êtes sur une page gabarit, vous allez avoir besoin de les créer d'avance.</p>
+        <p>Pour en apprendre plus sur le fonctionnement de Coveo, allez sur la plateforme <a href="https://levelup.coveo.com/">Coveo Level Up</a>.</p>
+    </div>
+    <footer>
+        <span class="career"><a href="https://www.coveo.com/fr/compagnie/carrieres">Carrières</a></span>
+        <span clas="coveo-homepage"><a href="https://www.coveo.com">Coveo</a></span>
+    </footer>
+</body>
+
+</html>

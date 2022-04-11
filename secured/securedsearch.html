@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script class="coveo-script" src="https://static.cloud.coveo.com/searchui/v2.10094/js/CoveoJsSearch.Lazy.min.js"></script>
+  <link rel="stylesheet" href="https://static.cloud.coveo.com/searchui/v2.10094/css/CoveoFullSearch.css" />
+  <script src="https://static.cloud.coveo.com/searchui/v2.10094/js/templates/templates.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+        var apiurl = "http://localhost:4000/token";
+        fetch(apiurl).then((response) => {
+            console.log(response);
+            return response.json();
+        }).then(data => {
+            console.log(data);
+            Coveo.SearchEndpoint.configureCloudV2Endpoint(
+                "your-org-id",
+                data
+            );
+            Coveo.init(document.getElementById("search"));
+        })
+    })
+  </script>
+</head>
+
+<body id="search" class="CoveoSearchInterface">
+  <!-- ... -->
+  <div class="CoveoAnalytics" data-search-hub="Techzample Evaluations"></div>
+  <div class="coveo-search-section">
+    <div class="CoveoSearchbox"></div>
+  </div>
+  <div class="coveo-main-section">
+    <div class="CoveoResultList"></div>
+  </div>
+  <!-- ... -->
+</body>
+
+</html>
